@@ -1,0 +1,7 @@
+ert 21
+zxc 37
+aaa 61
+bbb 82
+qwertyuiop 86
+qwertyui 111
+ccc 117

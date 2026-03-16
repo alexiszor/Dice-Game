@@ -1,0 +1,1 @@
+This is a game where to have to click on the dice that changes its position occasionally on the screen. The dice's value changes every time the position changes, with each click yoy scoire the value that the dice has.

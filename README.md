@@ -1,1 +1,1 @@
-This is a game where to have to click on the dice that changes its position occasionally on the screen. The dice's value changes every time the position changes, with each click yoy scoire the value that the dice has.
+This is a game where you have to click on a dice that changes its position occasionally on the screen. The dice's value changes every time it's position changes, with each click you score the value that the dice has. The game has 2 levels of difficulty and it also saves each attempt's score.
